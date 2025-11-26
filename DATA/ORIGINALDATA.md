@@ -1,4 +1,4 @@
-## 📊 Data Source
+## Data Source
 
 The dataset used in this project was obtained from the **USDA FoodData Central** [Download Datasets page](https://fdc.nal.usda.gov/download-datasets).  
 We specifically used the **Branded Foods** data release (April 2025).  
